@@ -1,2 +1,2 @@
-# springSample
-for learning spring
+# spring sample
+for learning spring and hibernate
